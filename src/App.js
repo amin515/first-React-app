@@ -10,7 +10,7 @@ function App() {
   return (
    <>
     <Header />
-    <Home />
+    {/* <Home /> */}
     {/* <Member /> */}
     {/* <Contact /> */}
     <Footer />
